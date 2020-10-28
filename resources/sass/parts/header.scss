@@ -1,0 +1,20 @@
+nav {
+    background-color: #55c501 !important;
+    #Navber {
+        .navbar-nav {
+            .nav-item {
+                // 投稿するボタンの背景を深緑にする
+                #post-link {
+                    background-color: #367e00;
+                    border-radius: 5px;
+                    padding-left: 1rem;
+                    padding-right: 1rem;
+                }
+                #register {
+                    border: solid 2px white;
+                    border-radius: 10px;
+                }
+            }
+        }
+    }
+}
